@@ -1,0 +1,17 @@
+{
+ "format": "drm-revocation-list",
+ "v": 1,
+ "list": {
+  "publisher": "1CE2-8AE3-B378-BF5B",
+  "seq": 1,
+  "issued_utc": "2026-10-18T19:25:00Z",
+  "licenses": [
+   {
+    "id": "536eb7e3c29b407d9f4e44656441d397",
+    "revoked_utc": "2026-10-18T19:15:20Z"
+   }
+  ],
+  "media": []
+ },
+ "sig": "XWHUWgnYUgHBhnc5UWQzALahFBGRfWKKHRnLCfe1k3JCsvfTYSrSNp8qc8H9/eZBd8MrhfdHst3K2sYU1M4CDg=="
+}
