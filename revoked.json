@@ -3,15 +3,19 @@
  "v": 1,
  "list": {
   "publisher": "1CE2-8AE3-B378-BF5B",
-  "seq": 1,
-  "issued_utc": "2026-10-18T19:25:00Z",
+  "seq": 2,
+  "issued_utc": "2026-10-18T23:33:00Z",
   "licenses": [
    {
     "id": "536eb7e3c29b407d9f4e44656441d397",
     "revoked_utc": "2026-10-18T19:15:20Z"
+   },
+   {
+    "id": "bc3ff202725f41cca06f6e88bcbe6b80",
+    "revoked_utc": "2026-10-18T23:31:45Z"
    }
   ],
   "media": []
  },
- "sig": "XWHUWgnYUgHBhnc5UWQzALahFBGRfWKKHRnLCfe1k3JCsvfTYSrSNp8qc8H9/eZBd8MrhfdHst3K2sYU1M4CDg=="
+ "sig": "PPR5VZWagMt0C+7Xc9sRlg+efrmruIIYXN9uvKiedSkU7yc9R25LWF/Ns5fNQ7as6HO8P3rbYX7zDcUdwOboBQ=="
 }
